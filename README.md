@@ -40,7 +40,7 @@ This initiative was developed as a key part of my **Machine Learning Internship 
 ## 🔗 Links  
 - 📂 [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 - 💻 [Code Notebook](https://colab.research.google.com/drive/1XsKDa14RoKv-ZTvR_X-ID2v-hptn_KhZ) 
-- 📊 [Dashboard File](https://github.com/gkmr907/FUTURE_ML_01/blob/main/ML_Task_1.pbix)  
+- 📊 [Dashboard File](https://github.com/ThePhaniVemuri/FUTURE_ML_01/blob/main/ML_Task_1.pbix)  
 
 ## 🏆 Internship Task  
 This project fulfills **Task 1** of my internship with **Future Interns**, with a strong focus on **Machine Learning and Time Series Forecasting**.
